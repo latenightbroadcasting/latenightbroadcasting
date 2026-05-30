@@ -2,4 +2,4 @@
 
 <img src="https://pixels.crd.co/assets/images/gallery20/1a1b9c97.gif?v=29416114" alt="Phone"/> mike :: he/any
 
-bisexual :: i'll figure out a gender eventually??
+<img src="https://pixels.crd.co/assets/images/gallery27/e6e0f9e6.gif?v=29416114" alt="Etch-a-Sketch"/> bisexual :: i'll figure out a gender eventually??
