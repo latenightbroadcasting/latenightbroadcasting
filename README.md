@@ -9,3 +9,25 @@
 <img src="https://file.garden/afKsUCcUngz43hjH/tvgif.gif" alt="TV"/>  feel free to cuddle! i'll usually be offtab so whisper 2 interact or whatever
 
 <a href="https://www.tumblr.com/velvetcompendium"><img src="https://64.media.tumblr.com/af9503826168ff6fe09f376a0758bb0c/f41f49c3a5fb10df-4c/s100x200/0033b9c53b7a91c59beb81052f2ad933a5ae895a.gifv" alt="tennerimg" /></a><img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/13white/48.gif" alt="neerd" /><img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/13white/7.gif" alt="retro" /><img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/13white/60.gif" alt="static" /><img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/14grey/27.gif" alt="horror" /><img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/14grey/16.gif" alt="radical" /> <img src="https://files.catbox.moe/5d32o8.gif" alt="pessi" /> <img src="https://files.catbox.moe/kiznjt.gif" alt="star" />  <img src="https://i.postimg.cc/PJjNsFYr/angel.gif" alt="angel" /><img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/6lightblue/46.gif" alt="artist" /><img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/11pink/20.gif" alt="cute" /><img src="https://sewerwolfx.neocities.org/graphics/imvubuttons/11pink/29.gif" alt="colorful" />
+
+  <svg viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+      .marquee {
+        animation: scroll 15s linear infinite;
+      }
+      @keyframes scroll {
+        0% {
+          transform: translateX(100%);
+        }
+        100% {
+          transform: translateX(-250%);
+        }
+      }
+    </style>
+    <defs>
+      <path id="marqueePath" d="M 0,50 H 1600" />
+    </defs>
+    <g class="marquee">
+  
+    </g>
+  </svg>
